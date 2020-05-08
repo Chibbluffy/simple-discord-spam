@@ -24,5 +24,5 @@ while i:
     message.send_keys(message_text)
     # message.send_keys(str(i))
     message.send_keys(Keys.ENTER)
-    sleep(10)
+    sleep(spam_timer)
     # i += 1
