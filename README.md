@@ -7,6 +7,8 @@
 
 You can install python pretty easily. After you have python, open up terminal/command prompt/powershell and run:
 `pip install selenium`
+or you can run:
+`pip install -r requirements`
 
 To install chromedriver, go to https://chromedriver.chromium.org/downloads and download the appropriate release for your version of Chrome. Once you have that, add it to your environment variables. Here's a link if you are having trouble: https://zwbetz.com/download-chromedriver-binary-and-add-to-your-path-for-automated-functional-testing/
 
